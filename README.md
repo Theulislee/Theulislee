@@ -5,7 +5,8 @@ I really want an opportunity to grow in this field where I am always looking to 
 I found my true vocation studying with computers and making them work for me. Here I found myself and the meaning of my life. 
 
 My Linkedin: https://www.linkedin.com/in/matheus-magalhaes-311695203/
-MY E-mail: magalhaescerqueiraesilva@gmail.com
+
+My E-mail: magalhaescerqueiraesilva@gmail.com
 
 My Curriculum:
 
