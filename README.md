@@ -42,4 +42,4 @@ I am currently studying and dedicating myself to Angular!
 
 I am looking for the opportunity to learn the best in the field of technology, when I decided to study programming on my own I saw that it was the right choice I wanted for my life. I am still learning more, but I believe that I will be a good professional in the field and that I will work with a productive and communicative team!
   
-  ![Snake animation](https://github.com/Theulis/Theulis/blob/output/github-contribution-grid-snake.svg)
+
