@@ -26,6 +26,9 @@ I am currently studying and dedicating myself to Angular!
 ° GitHub
 ° Angular 12
 ° TypeScript
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
 
 
 <h3>- About the future...</h3>
