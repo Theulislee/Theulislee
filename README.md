@@ -44,5 +44,5 @@ I am looking for the opportunity to learn the best in the field of technology, w
 
   <section>
 <p align="middle"><img src="./assets/lotie/sun.gif" width="150"></p>
-<img src="./assets/lotie/eladioclaudio.gif" align="right" width="490">
+<img src="./assets/lotie/Theulislee.gif" align="right" width="490">
 </br>
