@@ -23,7 +23,10 @@ I am currently studying and dedicating myself to Angular!
 ° CSS
 ° SCSS
 ° Node.js
-° Angular
+° GitHub
+° Angular 12
+° TypeScript
+
 
 <h3>- About the future...</h3>
 
