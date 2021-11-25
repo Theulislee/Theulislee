@@ -26,7 +26,7 @@ I am currently studying and dedicating myself to Angular!
 ° TypeScript
 ° GitHub
 ° Angular 12
-
+° Angular Material
  
  <img align="center" alt="Theulis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Theulis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -38,6 +38,6 @@ I am currently studying and dedicating myself to Angular!
 
 
 
-<h3>- About the future...</h3>
+<h3>- About the future...</h3> 🚀
 
 I am looking for the opportunity to learn the best in the field of technology, when I decided to study programming on my own I saw that it was the right choice I wanted for my life. I am still learning more, but I believe that I will be a good professional in the field and that I will work with a productive and communicative team!
