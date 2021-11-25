@@ -1,4 +1,10 @@
-Hello, I'm Matheus!
+<div align="center">
+  <a href="https://github.com/Theulislee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theulislee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theulislee&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+Hello, I'm Matheus!🙋‍♂️
 
 I study programming, especially Front End programming.
 I really want an opportunity to grow in this field where I am always looking to improve my knowledge.
