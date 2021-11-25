@@ -9,7 +9,7 @@
 
 I study programming, especially Front End programming.chartreuse-dark
 I really want an opportunity to grow in this field where I am always looking to improve my knowledge.
-I found my true vocation in software development. </h
+I found my true vocation in software development. </h2>
 
 My Linkedin: https://www.linkedin.com/in/matheus-magalhaes-311695203/
 
