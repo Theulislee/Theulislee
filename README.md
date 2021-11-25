@@ -1,15 +1,15 @@
 <div align="center">
   <a href="https://github.com/Theulislee">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Theulislee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Theulislee&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theulislee&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   
 <h2> Hello, I'm Matheus! 🙋‍♂️
 
-I study programming, especially Front End programming.
+I study programming, especially Front End programming.chartreuse-dark
 I really want an opportunity to grow in this field where I am always looking to improve my knowledge.
-I found my true vocation in software development. </h2>
+I found my true vocation in software development. </h
 
 My Linkedin: https://www.linkedin.com/in/matheus-magalhaes-311695203/
 
