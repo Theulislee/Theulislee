@@ -48,8 +48,5 @@ I am currently studying and dedicating myself to Angular!
 
 I am looking for the opportunity to learn the best in the field of technology, when I decided to study programming on my own I saw that it was the right choice I wanted for my life. I am still learning more, but I believe that I will be a good professional in the field and that I will work with a productive and communicative team! 
    
-    
-      <img align="center" alt="Theulis" height="30" width="40" src="https://user-images.githubusercontent.com/88908428/143588632-41fe90d2-cf8b-4818-8de0-e0129ca5ffa7.mp4">
-
   
   
