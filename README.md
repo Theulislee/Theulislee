@@ -11,7 +11,9 @@ I study programming, especially Front End programming.
 I really want an opportunity to grow in this field where I am always looking to improve my knowledge.
 I found my true vocation in software development. </h3>
 
-  <h3>My Linkedin:</h3> https://www.linkedin.com/in/matheus-magalhaes-311695203/
+  <h3>My Linkedin:</h3> 
+  <div>
+    <a href="https://www.linkedin.com/in/matheus-magalhaes-311695203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
   <h3>My E-mail:</h3> magalhaescerqueiraesilva@gmail.com
 
