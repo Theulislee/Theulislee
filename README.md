@@ -16,6 +16,9 @@ I found my true vocation in software development. </h3>
     <a href="https://www.linkedin.com/in/matheus-magalhaes-311695203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
   <h3>My E-mail:</h3> magalhaescerqueiraesilva@gmail.com
+  <div>
+    <a href="magalhaescerqueiraesilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
+
 
   <h3>My Curriculum:</h3>
 
