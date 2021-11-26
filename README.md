@@ -17,7 +17,7 @@ I found my true vocation in software development. </h3>
 
   <h3>My E-mail:</h3> magalhaescerqueiraesilva@gmail.com
   <div>
-    <a href="magalhaescerqueiraesilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
+    <a href = "magalhaescerqueiraesilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
 
 
   <h3>My Curriculum:</h3>
