@@ -24,7 +24,7 @@ I found my true vocation in software development. </h3>
   <h3>My Curriculum:</h3>
 
 I am currently studying and dedicating myself to Angular!
-
+<h3>
 ° HTML
 ° CSS
 ° SCSS
@@ -33,7 +33,7 @@ I am currently studying and dedicating myself to Angular!
 ° GitHub
 ° Angular 12
 ° Angular Material
- 
+    </h3>
  <img align="center" alt="Theulis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Theulis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Theulis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
