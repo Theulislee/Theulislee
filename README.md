@@ -55,10 +55,5 @@ I am looking for the opportunity to learn the best in the field of technology, w
  </p>
      </div>
     
-    <p align="center">
-  <a href="#">
-    <img align="center" width="450" src="teclando.gif" />
-  </a>
-
   
   
