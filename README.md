@@ -54,5 +54,11 @@ I am looking for the opportunity to learn the best in the field of technology, w
    <img alingn="center" src="https://profile-counter.glitch.me/Theulislee/count.svg" />
  </p>
      </div>
+    
+    <p align="center">
+  <a href="#">
+    <img align="center" width="450" src="teclando.gif" />
+  </a>
+
   
   
