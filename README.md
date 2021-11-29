@@ -7,9 +7,9 @@
   
   <h1> Hello, I'm Matheus! 🙋‍ </h1>
 <h3>
-I study programming, especially Front End programming.
-I really want an opportunity to grow in this field where I am always looking to improve my knowledge.
-I found my true vocation in software development. </h3>
+Estudo a programação, especialmente Dev Front End.
+Quero realmente uma oportunidade de crescer neste campo onde estou sempre à procura de evolução e mais conhecimentos.
+Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 
   <h3>My Linkedin:</h3> 
   <div>
@@ -23,7 +23,7 @@ I found my true vocation in software development. </h3>
 
   <h3>My Curriculum:</h3>
 
-I am currently studying and dedicating myself to Angular!
+Estou atualmente a estudar e a dedicar-me ao Angular12.
 <h3>
 ° HTML
 ° CSS
@@ -46,8 +46,7 @@ I am currently studying and dedicating myself to Angular!
 
 <h3>- About the future...</h3> 🚀  
 
-I am looking for the opportunity to learn the best in the field of technology, when I decided to study programming on my own I saw that it was the right choice I wanted for my life. I am still learning more, but I believe that I will be a good professional in the field and that I will work with a productive and communicative team! 
-    
+Estou à procura de oportunidade e aprender o melhor no campo da tecnologia, quando decidi estudar programação por conta própria vi que era a escolha certa que queria para a minha vida. Ainda estou a aprender mais, mas acredito que serei um bom profissional no campo e que trabalharei com uma equipa produtiva e positiva! 
    <div>
      <h2>  Total de Visitantes no meu perfil :detective: <br> </h2>
  <p align="center"> 
