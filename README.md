@@ -52,7 +52,7 @@ Estou atualmente a estudar e a dedicar-me ao Angular12 na Udemy.
 
 Estou à procura de oportunidade e aprender o melhor no campo da tecnologia, quando decidi estudar programação por conta própria vi que era a escolha certa que queria para a minha vida. Ainda estou a aprender mais, mas acredito que serei um bom profissional no campo e que trabalharei com uma equipa produtiva e positiva! 
    <div>
-     <h2>  Total de Visitantes no meu perfil :detective: <br> </h2>
+     <h2>  Total de Visitas no meu perfil :detective: <br> </h2>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Theulislee/count.svg" />
  </p>
