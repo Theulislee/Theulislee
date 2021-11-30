@@ -31,6 +31,7 @@ Estou atualmente a estudar e a dedicar-me ao Angular12 na Udemy.
 ° Node.js
 ° TypeScript
 ° GitHub
+° Git
 ° Angular 12
 ° Angular Material
     </h3>
