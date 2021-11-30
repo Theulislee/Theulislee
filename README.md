@@ -23,7 +23,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 
   <h3>My Curriculum:</h3>
 
-    <h2> Estou atualmente a estudar e a dedicar-me ao Angular12 na Udemy. </h2>
+    <h2>Estou atualmente a estudar e a dedicar-me ao Angular12 na Udemy.</h2>
 <h3>
 ° Vscode
 ° HTML
