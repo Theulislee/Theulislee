@@ -49,9 +49,9 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 
 
 
-<h3>- About the future...</h3> 🚀  
+<h2>- About the future...</h2> 🚀  
 
-Estou à procura de oportunidade e aprender o melhor no campo da tecnologia, quando decidi estudar programação por conta própria vi que era a escolha certa que queria para a minha vida. Ainda estou a aprender mais, mas acredito que serei um bom profissional no campo e que trabalharei com uma equipa produtiva e positiva! 
+<h3>Estou à procura de oportunidade e aprender o melhor no campo da tecnologia, quando decidi estudar programação por conta própria vi que era a escolha certa que queria para a minha vida. Ainda estou a aprender mais, mas acredito que serei um bom profissional no campo e que trabalharei com uma equipa produtiva e positiva!</h3> 
    <div>
      <h2>  Total de Visitas no meu perfil :detective: <br> </h2>
  <p align="center"> 
