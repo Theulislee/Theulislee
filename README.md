@@ -21,7 +21,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
     <a href = "mailto:magalhaescerqueiraesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a> </div>
 
 
-  <h3>My Curriculum:
+  <h3>My Curriculum: <br>
     Estou atualmente a estudar e a dedicar-me ao Angular12 na Udemy. </h3>
 <h3>
 ° Vscode
