@@ -5,7 +5,7 @@
 </div>
 
   
-  <h1> Hello, I'm Matheus! 🙋‍ </h1>
+  <h1> Hello, I'm Matheus!! 🙋‍ </h1>
 <h3>
 Estudo a programação, especialmente Dev Front End.
 Quero realmente uma oportunidade de crescer neste campo onde estou sempre à procura de evolução e mais conhecimentos.
@@ -51,7 +51,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 
 <h2>- About the future...</h2> 🚀  
 
-<h3>Estou à procura de oportunidade e aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria vi que era a escolha certa que eu queria para a minha vida. Ainda estou a aprender mais, mas acredito que serei um bom profissional e que trabalharei com uma bela equipe produtiva e positiva!</h3> 
+<h3>Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria vi que era a escolha certa que eu queria para a minha vida. Ainda estou em desenvolvimento na área, mas acredito que serei um bom profissional e que trabalharei com uma bela equipe produtiva e positiva!</h3> 
    <div>
      <h2>  Total de Visitas no meu perfil :detective: <br> </h2>
  <p align="center"> 
