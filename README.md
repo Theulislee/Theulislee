@@ -25,7 +25,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
     <br>
     <br>
     Estou atualmente a estudar e a dedicar-me ao Angular12 na Udemy. <br>
-    Em breve iniciarei cursos de JS e CSS e vários outros para aprimor mais o meu conhecimento.</h3>
+    Em breve iniciarei cursos de JS e CSS e vários outros para aprimorar mais o meu conhecimento.</h3>
 <h3>
 ° Vscode
 ° HTML
