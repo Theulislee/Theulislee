@@ -59,7 +59,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
   <div align="center">
   <img src="https://user-images.githubusercontent.com/88908428/144766657-52386c96-2e59-4d19-a289-e0278b1d4101.jpg" width="500px" />
   </div>
-<h2>  Total de Visitas no meu perfil :detective: <br> </h2>
+<h2>  - Total de Visitas no meu perfil :detective: <br> </h2>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Theulislee/count.svg" />
  </p>
