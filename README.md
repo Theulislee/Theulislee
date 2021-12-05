@@ -50,11 +50,16 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 
 
 
+
 <h2>- About the future...</h2> 🚀  
 
-<h3>Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria vi que era a escolha certa que eu queria para a minha vida. Ainda estou em desenvolvimento na área, mas acredito que serei um bom profissional e que trabalharei com uma bela equipe produtiva e positiva!</h3> 
-   <div>
-     <h2>  Total de Visitas no meu perfil :detective: <br> </h2>
+<h3>Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria vi que era a escolha certa que eu queria para a minha vida. Ainda estou em desenvolvimento na área, mas acredito que serei um bom profissional e que trabalharei com uma bela equipe produtiva e positiva!</h3>
+    
+<div>
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/88908428/144766657-52386c96-2e59-4d19-a289-e0278b1d4101.jpg" width="500px" />
+  </div>
+<h2>  Total de Visitas no meu perfil :detective: <br> </h2>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Theulislee/count.svg" />
  </p>
