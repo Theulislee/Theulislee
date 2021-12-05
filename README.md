@@ -47,10 +47,8 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
     <img align="center" alt="Theulis-Git" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Theulis-NodeJs" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Theulis-Angular12" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-
-
-
-
+     <br>
+    <br>
 <h2>- About the future...</h2> 🚀  
 
 <h3>Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria vi que era a escolha certa que eu queria para a minha vida. Ainda estou em desenvolvimento na área, mas acredito que serei um bom profissional e que trabalharei com uma bela equipe produtiva e positiva!</h3>
