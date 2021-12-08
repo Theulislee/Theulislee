@@ -37,7 +37,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 ° Git
 ° Angular 12
 ° Angular Material
-    </h3>
+    </h2>
  <img align="center" alt="Theulis-Vscode" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="Theulis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Theulis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
