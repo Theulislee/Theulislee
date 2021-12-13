@@ -43,6 +43,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 ° Git
 ° Angular 12
 ° Angular Material
+° Bootstrap
     </h3>
  <img align="center" alt="Theulis-Vscode" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="Theulis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -53,7 +54,8 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
     <img align="center" alt="Theulis-Git" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Theulis-NodeJs" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Theulis-Angular12" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-      </div>
+<img align="center" alt="Theulis-Bootstrap" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    </div>
      <br>
     <br>
 <h2>- About the future...</h2> 🚀  
