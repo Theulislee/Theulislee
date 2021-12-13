@@ -23,8 +23,14 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
   <h3>My Curriculum: 
     <br>
     <br>
-    Estou atualmente a estudar e a dedicar-me ao Angular12 na Udemy. <br>
-    Em breve iniciarei cursos de JS e CSS e vários outros para aprimorar mais o meu conhecimento.</h3>
+    Estou atualmente estudando o Angular 12, JavaScripts e TypeScripts na Udemy. 
+    <br>
+    <br>
+    Em breve iniciarei o estudo do ReactJs na Udemy e estudo sobre NodeJs para ampliar o meu conhecimento e aprender sobre Back-End.
+    <br>
+    <br>
+    - Conhecimentos adquirido de:
+    </h3>
     <div style="display: inline_block">
 <h3>
 ° Vscode
