@@ -4,7 +4,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theulislee&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-  
   <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm Matheus, Welcome! </h1>
 <h3>
 Estudante de programação, especialmente em Dev Front End.
