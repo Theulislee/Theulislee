@@ -26,6 +26,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
     <br>
     Estou atualmente a estudar e a dedicar-me ao Angular12 na Udemy. <br>
     Em breve iniciarei cursos de JS e CSS e vários outros para aprimorar mais o meu conhecimento.</h3>
+    <div style="display: inline_block">
 <h3>
 ° Vscode
 ° HTML
@@ -47,6 +48,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
     <img align="center" alt="Theulis-Git" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Theulis-NodeJs" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Theulis-Angular12" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+      </div>
      <br>
     <br>
 <h2>- About the future...</h2> 🚀  
