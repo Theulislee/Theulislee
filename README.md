@@ -7,7 +7,7 @@
   <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm Matheus, Welcome! </h1>
 <h3>
 Estudante de programação, especialmente em Dev Front End.
-Quero e busco uma oportunidade de crescer neste campo onde estou sempre à procura de evolução e mais conhecimentos.
+Busco uma oportunidade de crescer neste campo onde estou sempre à procura de evolução e mais conhecimentos.
 Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 
   <h3>My Linkedin:</h3> 
