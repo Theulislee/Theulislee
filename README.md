@@ -29,7 +29,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
     Em breve iniciarei o estudo do ReactJs na Udemy e estudo sobre NodeJs para ampliar o meu conhecimento e aprender sobre Back-End.
     <br>
     <br>
-    - Conhecimentos adquirido de:
+    - Conhecimentos adquirido:
     </h3>
     <div style="display: inline_block">
 <h3>
