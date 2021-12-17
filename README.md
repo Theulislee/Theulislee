@@ -60,7 +60,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
     <br>
 <h2>- About the future...</h2> 🚀  
 
-<h3>Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria percebi que foi a melhor escolha que eu fiz na minha vida. Ainda estou em desenvolvimento na área estudando e dedicando todos os dias buscando evolução. Acredito que serei um bom profissional e que futuramente vou trabalhar com uma bela equipe produtiva e positiva!</h3>
+<h3>Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria percebi que foi a melhor escolha que eu fiz na minha vida. Ainda estou em desenvolvimento na área estudando e dedicando todos os dias buscando sempre o progresso em programar. Acredito que serei um bom profissional e que futuramente vou trabalhar com uma bela equipe produtiva e positiva!</h3>
     
 <div>
   <div align="center">
