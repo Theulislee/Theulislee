@@ -6,7 +6,7 @@
 
   <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm Matheus, Welcome! </h1>
 <h3>
-Estudante de programação, especialmente em Dev Front End.
+Sou estudante de programação, especialmente em Dev Front End.
 Busco uma oportunidade de crescer neste campo onde estou sempre à procura de evolução e mais conhecimentos.
 Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 
@@ -60,7 +60,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
     <br>
 <h2>- About the future...</h2> 🚀  
 
-<h3>Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria percebi que foi a melhor escolha que eu fiz na minha vida. Ainda estou em desenvolvimento na área estudando e dedicando todos os dias buscando sempre o progresso em programar. Acredito que serei um bom profissional e que futuramente vou trabalhar com uma bela equipe produtiva e positiva!</h3>
+<h3>Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria percebi que foi a melhor escolha que eu fiz na minha vida. Ainda estou em desenvolvimento na área estudando e dedicando todos os dias buscando sempre o progresso de programar. Acredito que serei um bom profissional e que futuramente vou trabalhar com uma bela equipe produtiva e positiva!</h3>
     
 <div>
   <div align="center">
