@@ -30,7 +30,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
     também iniciarei estudos sobre o CSS na Udemy.
     <br>
     <br>
-    - Conhecimentos adquirido:
+    - Conhecimentos sobre:
     </h3>
     <div style="display: inline_block">
 <h3>
