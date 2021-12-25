@@ -65,7 +65,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
     
 <div>
   <div align="center">
-  <img src="https://user-images.githubusercontent.com/88908428/144766657-52386c96-2e59-4d19-a289-e0278b1d4101.jpg" width="500px" />
+  <img src="https://user-images.githubusercontent.com/88908428/144766657-52386c96-2e59-4d19-a289-e0278b1d4101.jpg" width="300px" />
   </div>
 <h2>  - Total de Visitas no meu perfil :detective: <br> </h2>
  <p align="center"> 
