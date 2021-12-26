@@ -13,7 +13,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
   </h3>
 <div align="center">
   
-   ## My contacts:
+   ## My contacts
   
   </div>
   <div align="center">
@@ -23,7 +23,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
  
    <div align="center">
       
-  ## Curriculum: 
+  ## Curriculum
     
 </div>
   <h3 align="center">
