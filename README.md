@@ -22,6 +22,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
     </div>
  
    <div align="center">
+     <br>
       
   ## Curriculum
     
