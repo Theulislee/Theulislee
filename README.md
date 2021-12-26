@@ -61,8 +61,8 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 <img align="center" alt="Theulis-Bootstrap" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </div>
      <br>
-    
-<h2>- About the future...</h2> 🚀  
+  
+  ## About the future... 🚀  
 
 <h3>Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria percebi que foi a melhor escolha que eu fiz na minha vida. Ainda estou em desenvolvimento na área estudando e dedicando todos os dias buscando sempre o progresso. Acredito que serei um bom profissional e que futuramente irei trabalhar com uma ótima equipe produtiva e positiva!</h3>
     
@@ -70,9 +70,11 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
   <div align="center">
   <img src="https://user-images.githubusercontent.com/88908428/144766657-52386c96-2e59-4d19-a289-e0278b1d4101.jpg" width="300px" />
   </div>
-<h2>  - Total de Visitas no meu perfil :detective: <br> </h2>
+  
+ ## Total de Visitas no meu perfil :detective:
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Theulislee/count.svg" />
+   
  </p>
      </div>
     
