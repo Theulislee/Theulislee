@@ -6,23 +6,28 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Theulislee&show_icons=true&theme=chartreuse-dark&include_all_commits=false&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theulislee&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-<h3>
+<h3 align="justify">
 Sou estudante de programação, especialmente em Dev Front End.
 Busco uma oportunidade de crescer neste campo onde estou sempre à procura de evolução e mais conhecimentos.
 Encontrei a minha verdadeira vocação no desenvolvimento de software. 
   </h3>
-
+<div align="center">
+  
    ## My contacts:
   
-  <div>
+  </div>
+  <div align="center">
   <a href="https://www.linkedin.com/in/matheus-magalhaes-311695203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  <div>
+  <div align="center">
     <a href = "mailto:magalhaescerqueiraesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a> </div>
  
+   <div align="center">
+      
   ## Curriculum: 
     
-  <h3>
+</div>
+  <h3 align="center">
   Estou atualmente estudando o Angular 12, JavaScripts e TypeScripts na Udemy. 
   <br>
   <br>
@@ -32,7 +37,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
   <br>
   </h3>
       
-  <div style="display: inline_block">
+  <div style="display: inline_block" align="center">
   
   ## Technology
   
@@ -62,10 +67,15 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
 <img align="center" alt="Theulis-Bootstrap" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </div>
      <br>
-  
+  <div align="center">
+    
   ## About the future... 🚀  
 
-<h3>Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria percebi que foi a melhor escolha que eu fiz na minha vida. Ainda estou em desenvolvimento na área estudando e dedicando todos os dias buscando sempre o progresso. Acredito que serei um bom profissional e que futuramente irei trabalhar com uma ótima equipe produtiva e positiva!</h3>
+ </div>
+  
+<h3 align="justify">
+  Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria percebi que foi a melhor escolha que eu fiz na minha vida. Ainda estou em desenvolvimento na área estudando e dedicando todos os dias buscando sempre o progresso. Acredito que serei um bom profissional e que futuramente irei trabalhar com uma ótima equipe produtiva e positiva!
+  </h3>
     
 <div>
   <div align="center">
