@@ -3,19 +3,19 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Theulislee&show_icons=true&theme=chartreuse-dark&include_all_commits=false&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theulislee&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-
+<div align="center">
   <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm Matheus, Welcome! </h1>
+  </div>
 <h3>
 Sou estudante de programação, especialmente em Dev Front End.
 Busco uma oportunidade de crescer neste campo onde estou sempre à procura de evolução e mais conhecimentos.
 Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 
-  <h3>My Linkedin:</h3> 
+   ## My contacts:
+  
   <div>
-    <a href="https://www.linkedin.com/in/matheus-magalhaes-311695203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheus-magalhaes-311695203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-
-  <h3>My E-mail:</h3>
   <div>
     <a href = "mailto:magalhaescerqueiraesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a> </div>
  
@@ -70,6 +70,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
   <div align="center">
   <img src="https://user-images.githubusercontent.com/88908428/144766657-52386c96-2e59-4d19-a289-e0278b1d4101.jpg" width="300px" />
   </div>
+ <div align="center">
   
  ## Total de Visitas no meu perfil :detective:
  <p align="center"> 
@@ -77,6 +78,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
    
  </p>
      </div>
+  </div>
     
   
   
