@@ -18,34 +18,37 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
   <h3>My E-mail:</h3>
   <div>
     <a href = "mailto:magalhaescerqueiraesilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a> </div>
-
-
-  <h3>My Curriculum: 
-    <br>
-    <br>
-    Estou atualmente estudando o Angular 12, JavaScripts e TypeScripts na Udemy. 
-    <br>
-    <br>
-    Em breve iniciarei o estudo do ReactJs na Udemy e estudo sobre Node.Js para ampliar o meu conhecimento e aprender sobre Back-End e
-    também iniciarei estudos sobre o CSS na Udemy.
-    <br>
-    <br>
-    - Conhecimentos sobre:
-    </h3>
-    <div style="display: inline_block">
-<h3>
-° Vscode
-° HTML
-° CSS
-° SCSS
-° Node.js
-° TypeScript
-° GitHub
-° Git
-° Angular 12
-° Angular Material
+ 
+  ## Curriculum: 
+    
+  <h3>
+  Estou atualmente estudando o Angular 12, JavaScripts e TypeScripts na Udemy. 
+  <br>
+  <br>
+  Em breve iniciarei o estudo do ReactJs na Udemy e estudo sobre Node.Js para ampliar o meu conhecimento e aprender sobre Back-End e
+  também iniciarei estudos sobre o CSS na Udemy.
+  <br>
+  <br>
+  </h3>
+      
+  <div style="display: inline_block">
+  
+  ## Technology
+  
+° Vscode |
+° HTML |
+° CSS |
+° SCSS |
+° Node.js |
+° TypeScript |
+° GitHub |
+° Git |
+° Angular 12 |
+° Angular Material |
 ° Bootstrap
     </h3>
+      <br>
+      <br>
  <img align="center" alt="Theulis-Vscode" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="Theulis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Theulis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -58,7 +61,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software. </h3>
 <img align="center" alt="Theulis-Bootstrap" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </div>
      <br>
-    <br>
+    
 <h2>- About the future...</h2> 🚀  
 
 <h3>Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria percebi que foi a melhor escolha que eu fiz na minha vida. Ainda estou em desenvolvimento na área estudando e dedicando todos os dias buscando sempre o progresso. Acredito que serei um bom profissional e que futuramente irei trabalhar com uma ótima equipe produtiva e positiva!</h3>
