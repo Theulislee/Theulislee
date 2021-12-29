@@ -7,7 +7,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theulislee&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <h3 align="justify">
-Sou estudante de programação, especialmente em Dev Front End.
+ Sou estudante de programação, especialmente em Dev Front End.
 Busco uma oportunidade de crescer neste campo onde estou sempre à procura de evolução e mais conhecimentos.
 Encontrei a minha verdadeira vocação no desenvolvimento de software. 
   </h3>
