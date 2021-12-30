@@ -8,7 +8,7 @@
 </div>
 <h3 align="justify">
  Sou estudante de programação, especialmente em Dev Front End.
-Busco uma oportunidade de crescer neste campo onde estou sempre à procura de evolução e mais conhecimentos.
+Busco uma oportunidade de crescer neste campo onde estou sempre à procura de evolução e mais conhecimento.
 Encontrei a minha verdadeira vocação no desenvolvimento de software. 
   </h3>
 <div align="center">
