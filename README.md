@@ -31,7 +31,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
   Estou atualmente estudando o Angular 12, JavaScripts e TypeScripts na Udemy. 
   <br>
   <br>
-  Em breve iniciarei o estudo do ReactJs na Udemy e estudo sobre Node.Js para ampliar o meu conhecimento e aprender sobre Back-End e
+  Em breve iniciarei os estudos com ReactJs na Udemy e estudos sobre Node.Js para ampliar o meu conhecimento e aprender sobre Back-End e
   também iniciarei estudos sobre o CSS na Udemy.
   <br>
   <br>
