@@ -8,7 +8,7 @@
 </div>
 <h3 align="justify">
  Sou estudante de programação, especialmente em Dev Front End.
-Busco uma oportunidade de crescer neste campo onde estou sempre à procura de evolução e mais conhecimento.
+Busco minha primeira oportunidade para crescer neste campo da tecnologia, e estou sempre a procura de evolução buscando conhecimento para ser um bom profissional.
 Encontrei a minha verdadeira vocação no desenvolvimento de software. 
   </h3>
 <div align="center">
@@ -31,8 +31,8 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
   Estou atualmente estudando o Angular 12, JavaScripts e TypeScripts na Udemy. 
   <br>
   <br>
-  Em breve iniciarei os estudos com ReactJs na Udemy e estudos sobre Node.Js para ampliar o meu conhecimento e aprender sobre Back-End e
-  também iniciarei estudos sobre o CSS na Udemy.
+  Em breve iniciarei os estudos de ReactJs na Udemy e estudos sobre Node.Js para ampliar o meu conhecimento e aprender sobre Back-End e
+  também iniciarei estudos sobre o CSS na Udemy em breve.
   <br>
   <br>
   </h3>
@@ -74,7 +74,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
  </div>
   
 <h3 align="justify">
-  Estou à procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria percebi que foi a melhor escolha que eu fiz na minha vida. Ainda estou em desenvolvimento na área estudando e dedicando todos os dias buscando sempre o progresso. Acredito que serei um bom profissional e que futuramente irei trabalhar com uma ótima equipe produtiva e positiva!
+  Como falado anteriormente, estou a procura de oportunidade em aprender o melhor do campo da tecnologia, quando decidi estudar programação por conta própria percebi que foi a melhor escolha que eu fiz na minha vida. Ainda estou em desenvolvimento com meus estudos e dedicando todos os dias buscando sempre o progresso. Acredito que serei um bom profissional e que futuramente irei trabalhar com uma ótima equipe produtiva e positiva onde poderemos compartilhar diversos conhecimento e desmontrar os nossos talento!
   </h3>
     
 <div>
