@@ -13,7 +13,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
   </h3>
 <div align="center">
   
-   ## My contacts
+   ## My contacts<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
   
   </div>
   <div align="center">
@@ -69,7 +69,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
      <br>
   <div align="center">
     
-  ## About the future... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="40px">
+  ## About the future... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="37px">
 
  </div>
   
