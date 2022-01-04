@@ -26,7 +26,8 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
    <div align="center">
      <br>
       
-  ## Curriculum
+  ## Curriculum <img src="https://user-images.githubusercontent.com/88908428/148097570-2daa339c-d4c8-402e-bf20-b85ebeb4c1e5.gif" height="38px" >
+
     
 </div>
   <h3 align="center">
@@ -41,7 +42,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
       
   <div style="display: inline_block" align="center">
   
-  ## Technology
+  ## Technology <img src="https://user-images.githubusercontent.com/88908428/148098298-8a747442-aa82-4ba1-b890-3a2552eb3e66.png" height="38px">
  <h3>
 ° Vscode |
 ° HTML |
