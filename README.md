@@ -69,7 +69,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
      <br>
   <div align="center">
     
-  ## About the future... 🚀  
+  ## About the future... <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="40px">
 
  </div>
   
