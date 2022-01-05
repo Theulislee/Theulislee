@@ -26,7 +26,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
    <div align="center">
      <br>
       
-  ## Curriculum <img src="https://user-images.githubusercontent.com/88908428/148097570-2daa339c-d4c8-402e-bf20-b85ebeb4c1e5.gif" height="38px" >
+  ## Curriculum <img src="https://user-images.githubusercontent.com/88908428/148150018-84f67988-9fe2-41b6-b554-21f1e624a317.gif" height="38px" >
 
     
 </div>
@@ -41,7 +41,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
       
   <div style="display: inline_block" align="center">
   
-  ## Technology <img src="https://user-images.githubusercontent.com/88908428/148098298-8a747442-aa82-4ba1-b890-3a2552eb3e66.png" height="38px">
+  ## Technology <img src="https://user-images.githubusercontent.com/88908428/148150189-d4f83f7a-2ebb-4e8f-97c9-dc1f715e8aee.gif" height="38px">
  <h3>
 ° Vscode |
 ° HTML |
@@ -83,9 +83,8 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
   </div>
  <div align="center">
   
- ## Total de Visitas no meu perfil :detective:
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Theulislee/count.svg" />
+ ## Total de Visitas no meu perfil <img src="https://user-images.githubusercontent.com/88908428/148150331-4a66edea-da15-4eed-b9a0-309e71bd9a50.gif" width="35px"><img src="https://user-images.githubusercontent.com/88908428/148150331-4a66edea-da15-4eed-b9a0-309e71bd9a50.gif" width="35px">
+ <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Theulislee/count.svg" />
    
  </p>
      </div>
