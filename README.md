@@ -10,7 +10,7 @@
 </div>
 <h3 align="justify">
  Sou estudante de programação, especialmente em Desenvolvimento Front-End.
-Busco minha primeira oportunidade para crescer neste campo da tecnologia, e estou sempre a procura de evolução buscando conhecimento para ser um ótimo profissional.
+Busco minha primeira oportunidade em crescer neste campo da tecnologia, e estou sempre a procura de evolução buscando conhecimento para ser um ótimo profissional.
 Encontrei a minha verdadeira vocação no desenvolvimento de software. 
   </h3>
 <div align="center">
@@ -31,7 +31,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
     
 </div>
   <h3 align="center">
-  Estou atualmente estudando o Angular 12, JavaScripts e TypeScripts na Udemy com a finalidade de aumentar mais o conhecimento que ja adquirir.
+  Estou atualmente estudando o Angular 12, JavaScripts e TypeScripts na Udemy com a finalidade de aumentar mais o conhecimento que venho adquirindo.
   <br>
   <br>
   Em breve iniciarei os estudos de ReactJs e estudos sobre Node.Js para ampliar o meu conhecimento e aprender sobre Back-End.
