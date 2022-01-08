@@ -48,6 +48,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
 ° CSS |
 ° SCSS |
 ° Node.js |
+° JavaScript |
 ° TypeScript |
 ° GitHub |
 ° Git |
