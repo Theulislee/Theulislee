@@ -32,7 +32,8 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
 </div>
   <h3 align="center">
   Estou atualmente estudando o Angular 12, JavaScripts e TypeScripts do básico ao avançado na Udemy com a finalidade de aumentar mais o conhecimento que venho adquirindo.
-    Tenho feito cursos na Digital Innovation One sobre: Git e Github, Lógica de programação, Primeiros passos para o desenvolvimento web 
+    <br>
+   Tenho feito cursos na Digital Innovation One sobre: Git e Github, Lógica de programação, Primeiros passos para o desenvolvimento web 
   <br>
   <br>
   Em breve iniciarei os estudos de ReactJs e estudos sobre Node.Js para ampliar o meu conhecimento e aprender sobre Back-End.
