@@ -36,7 +36,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
    Tenho feito cursos na Digital Innovation One sobre: Git e Github, Lógica de programação, Primeiros passos para o desenvolvimento web 
   <br>
   <br>
-  Em breve iniciarei os estudos de ReactJs e estudos sobre Node.Js para ampliar o meu conhecimento e aprender sobre Back-End.
+  Em breve começarei os estudos de ReactJs e Node.Js para ampliar o meu conhecimento e aprender sobre Back-End.
   <br>
   <br>
   </h3>
