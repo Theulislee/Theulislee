@@ -9,8 +9,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theulislee&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 <h3 align="justify">
- Sou estudante autônomo de programação, especialmente em Desenvolvimento Front-End.
-Busco minha primeira oportunidade para crescer neste campo da tecnologia, e estou sempre a procura de evolução buscando conhecimento para ser um ótimo profissional.
+ Sou estudante autônomo de programação, especialmente na área de Desenvolvimento Front-End.
+Busco minha primeira oportunidade para crescer neste campo da tecnologia, estou sempre a procura de evolução buscando conhecimento para ser um ótimo profissional.
 Encontrei a minha verdadeira vocação no desenvolvimento de software. 
   </h3>
 <div align="center">
