@@ -86,7 +86,7 @@ Encontrei a minha verdadeira vocação no desenvolvimento de software.
   </div>
  <div align="center">
   
- ## Total de Visitas no meu perfil <img src="https://user-images.githubusercontent.com/88908428/148150331-4a66edea-da15-4eed-b9a0-309e71bd9a50.gif" width="35px"><img src="https://user-images.githubusercontent.com/88908428/148150331-4a66edea-da15-4eed-b9a0-309e71bd9a50.gif" width="35px">
+ ## Total de visitas no meu perfil <img src="https://user-images.githubusercontent.com/88908428/148150331-4a66edea-da15-4eed-b9a0-309e71bd9a50.gif" width="35px"><img src="https://user-images.githubusercontent.com/88908428/148150331-4a66edea-da15-4eed-b9a0-309e71bd9a50.gif" width="35px">
  <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Theulislee/count.svg" />
    
  </p>
