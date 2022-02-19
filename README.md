@@ -75,7 +75,7 @@ Busco minha primeira oportunidade para ganhar experiência no campo da tecnologi
  </div>
   
 <h3 align="justify">
-  Quando decidi estudar programação por conta própria percebi que foi a melhor escolha que eu fiz na minha vida. Acredito que serei um bom profissional e que futuramente irei trabalhar com uma ótima equipe produtiva onde poderemos compartilhar diversos conhecimento e demonstrar os nossos talento!
+  Quando decidi estudar programação de forma automática percebi que foi a melhor escolha que eu fiz na minha vida. Acredito que serei um bom profissional e que futuramente irei trabalhar com uma ótima equipe produtiva onde poderemos compartilhar diversos conhecimento e demonstrar os nossos talento!
   </h3>
     
 <div>
