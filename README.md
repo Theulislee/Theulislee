@@ -30,7 +30,7 @@ Busco minha primeira oportunidade para ganhar experiência no campo da tecnologi
     
 </div>
   <h3 align="justify">
-  Estou atualmente estudando JavaScripts e TypeScripts do básico ao avançado na Udemy com a finalidade de aumentar meu nível de conhecimento.
+  Estou atualmente estudando JavaScripts e TypeScripts do básico ao avançado na Udemy com a finalidade de aumentar meu nível de conhecimento, além de estar estudando também na plataforma da Digital Innovation one.
     Concluir cursos de Angular 12 (Udemy), Lógica de programação (Digital Innovation one), Git e GitHub (Digital Innovation one), Primeiros passos para desenvolvimento web.
   <br>
   <br>
