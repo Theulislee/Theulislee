@@ -10,7 +10,7 @@
 </div>
 <h3 align="justify">
  Sou estudante autônomo de programação, especialmente em Desenvolvimento Front-End.
-Busco minha primeira oportunidade para experiência no campo da tecnologia, estou sempre buscando a evolução e conhecimento para ser um ótimo profissional.
+Busco minha primeira oportunidade de trabalhar em uma equipe e adrquirir experiência na área tecnologica, estou sempre buscando a evolução e conhecimento para ser um ótimo profissional.
   </h3>
 <div align="center">
   
