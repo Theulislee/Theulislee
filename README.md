@@ -70,7 +70,7 @@ Busco minha primeira oportunidade de trabalhar em uma equipe e adrquirir experi√
      <br>
   <div align="center">
     
-  ## About the future <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="35px">
+  ## About the future <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="12px">
 
  </div>
   
@@ -84,7 +84,7 @@ Busco minha primeira oportunidade de trabalhar em uma equipe e adrquirir experi√
   </div>
  <div align="center">
   
- ## Total de visitas no meu perfil <img src="https://user-images.githubusercontent.com/88908428/148150331-4a66edea-da15-4eed-b9a0-309e71bd9a50.gif" width="35px"><img src="https://user-images.githubusercontent.com/88908428/148150331-4a66edea-da15-4eed-b9a0-309e71bd9a50.gif" width="35px">
+ ## Total de visitas no meu perfil>
  <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Theulislee/count.svg" />
    
  </p>
